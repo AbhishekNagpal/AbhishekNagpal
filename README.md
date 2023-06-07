@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Nagpal</h1>
 <h3 align="center">A passionate Student of Emerging Technologies from India</h3>
+<img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknagpal&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknagpal" /> </p>
