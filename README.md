@@ -16,13 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-nagpal-38b6221b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek nagpal" height="30" width="40" /></a>
- 
-<a href="https://www.instagram.com/abhishek_nagpal18/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhishek_nagpal18" height="30" width="40" /></a>
-  
-<a href="https://www.hackerrank.com/abhisheknaagpaa1?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abhishek nagpal" height="30" width="40" /></a>
-  
-<a href="https://leetcode.com/ABHI8055/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhi8055" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-nagpal-38b6221b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek nagpal" height="30" width="40" /></a><a href="https://www.instagram.com/abhishek_nagpal18/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhishek_nagpal18" height="30" width="40" /></a><a href="https://www.hackerrank.com/abhisheknaagpaa1?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abhishek nagpal" height="30" width="40" /></a><a href="https://leetcode.com/ABHI8055/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhi8055" height="30" width="40" /></a>
 </p>
 
 </p>
