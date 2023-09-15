@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknagpal&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknagpal" /> </p>
 
-- 🌱 I’m currently learning **Python , Machine Learning , Deep Learning ,NLP**
+- 🌱 I’m currently learning **Python , Machine Learning , Deep Learning ,NLP **
 
 - 📫 How to reach me **abhisheknaagpaal1991@gmail.com**
 
